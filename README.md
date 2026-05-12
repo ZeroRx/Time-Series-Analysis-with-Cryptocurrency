@@ -146,8 +146,10 @@ RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}
 ---
 
 # 📷 Dashboard Preview
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a4386931-85dd-4b64-9c1d-b3caee749f7e" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c89a56a-5b07-41fd-a75c-67e785aaa29f" />
+<img width="1902" height="967" alt="image" src="https://github.com/user-attachments/assets/53d840d4-700f-444f-8cee-59bcc52dfd01" />
+
+<img width="1902" height="967" alt="image" src="https://github.com/user-attachments/assets/509bb78e-084d-4ac6-91a6-118fa0b71b0f" />
+
 
 ---
 
